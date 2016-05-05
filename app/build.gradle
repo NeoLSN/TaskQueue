@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "me.jasonyang.taskqueue.example"
+        applicationId "io.jasonyang.taskqueue.example"
         minSdkVersion 14
         targetSdkVersion 23
         versionCode 1
