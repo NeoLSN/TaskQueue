@@ -1,6 +1,8 @@
 Task Queue
 ========
 
+[![Release](https://jitpack.io/v/NeoLSN/TaskQueue.svg)](https://jitpack.io/#NeoLSN/TaskQueue)
+
 Description
 --------
 An Android task queue library. Support priority, timeout, multiple execution, exclusive task and retry.
@@ -10,13 +12,12 @@ Setup
 
 ```gradle
 repositories {
-    //...
+    ...
     maven { url "https://jitpack.io" }
 }
-
 dependencies {
-    //...
-    compile 'com.github.NeoLSN:TaskQueue:1.0.0'
+    ...
+    compile 'com.github.NeoLSN:TaskQueue:1.0.1'
 }
 ```
 
