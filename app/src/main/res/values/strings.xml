@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TaskQueue</string>
+    <string name="action_reset">Reset</string>
+    <string name="task_seq_title">Seq.</string>
+    <string name="task_priority_title">Priority</string>
+    <string name="task_queue_name_title">Queue Name</string>
+    <string name="task_status_title">Status</string>
+
+    <string name="task_name">#%d</string>
+    <string name="queue_name_1">Queue 1</string>
+    <string name="queue_name_2">Queue 2</string>
+    <string name="queue_name_general">General Queue</string>
+</resources>
