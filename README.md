@@ -1,7 +1,8 @@
 Task Queue
 ========
 
-[![Release](https://jitpack.io/v/NeoLSN/TaskQueue.svg)](https://jitpack.io/#NeoLSN/TaskQueue)
+[![Release](https://jitpack.io/v/NeoLSN/TaskQueue.svg?style=flat)](https://jitpack.io/#NeoLSN/TaskQueue)
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Task%20Queue-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/3579)
 
 Description
 --------
