@@ -18,7 +18,7 @@ repositories {
 }
 dependencies {
     ...
-    compile 'com.github.NeoLSN:TaskQueue:1.0.1'
+    compile 'com.github.NeoLSN:TaskQueue:1.0.2'
 }
 ```
 
